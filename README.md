@@ -1,0 +1,2 @@
+# Tarefa 2 - Sistemas Inteligentes (SCSI30)
+Neste repositório estão inclusos os algoritmos de Árvore de Decisão (C4.5), Random Forest (classificação e regressão) e Rede Neural para o problema da Tarefa 2.
